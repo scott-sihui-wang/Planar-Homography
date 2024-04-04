@@ -19,6 +19,7 @@ Extraction and matching of key points:
 Input video 1:
 
 ![Input1](/demo/ar_source.gif)
+
 Input video 2:
 
 ![Input2](/demo/book.gif)
