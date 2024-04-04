@@ -18,18 +18,11 @@ Extraction and matching of key points:
 
 Input video 1:
 
-<video src="/data/book.mp4" width="320" height="240" controls></video>
-
-<video width="320" height="240" controls>
-  <source src="data/book.mp4" type="video/mp4">
-</video>
-
-
-![RANSAC](data/book.mp4)
+![Input1](/demo/ar_source.gif)
 Input video 2:
 
-![Input Video 2](/demo/input2.gif)
+![Input2](/demo/book.gif)
 
 Generated video:
 
-![Output Video](/demo/output.gif)
+![Output Video](/demo/ar.gif)
