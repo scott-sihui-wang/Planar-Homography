@@ -22,6 +22,8 @@ Input video 1:
   <source src="data/book.mp4" type="video/mp4">
 </video>
 
+
+![RANSAC](data/book.mp4)
 Input video 2:
 
 ![Input Video 2](/demo/input2.gif)
