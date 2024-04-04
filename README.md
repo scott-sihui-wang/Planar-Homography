@@ -16,7 +16,7 @@ Extraction and matching of key points:
 
 Input video 1:
 
-![Input Video 1](/demo/input1.gif)
+<video src="data/ar_source.mov" width="320" height="240" controls></video>
 
 Input video 2:
 
