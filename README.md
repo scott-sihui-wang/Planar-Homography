@@ -12,16 +12,16 @@ In this project, I first implemented `homography estimation` by feature point ex
 
 Extraction and matching of key points:
 
-!(RANSAC)[/demo/RANSAC.png]
+![RANSAC](/demo/RANSAC.png)
 
 Input video 1:
 
-!(Input Video 1)[/demo/input1.gif]
+![Input Video 1](/demo/input1.gif)
 
 Input video 2:
 
-!(Input Video 2)[/demo/input2.gif]
+![Input Video 2](/demo/input2.gif)
 
 Generated video:
 
-!(Output Video)[/demo/output.gif]
+![Output Video](/demo/output.gif)
