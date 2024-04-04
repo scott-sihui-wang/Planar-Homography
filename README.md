@@ -16,7 +16,7 @@ Extraction and matching of key points:
 
 Input video 1:
 
-<video src="data/books.mp4" width="320" height="240" controls></video>
+<video src="/data/book.mp4" width="320" height="240" controls></video>
 
 Input video 2:
 
