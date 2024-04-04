@@ -18,6 +18,10 @@ Input video 1:
 
 <video src="/data/book.mp4" width="320" height="240" controls></video>
 
+<video width="320" height="240" controls>
+  <source src="data/book.mp4" type="video/mp4">
+</video>
+
 Input video 2:
 
 ![Input Video 2](/demo/input2.gif)
